@@ -1,0 +1,2 @@
+Apresentação da disciplina, conteúdo programático, formas de avaliação, bibliografias básica e complementar.
+Introdução à programação Orientada a Objetos, comparativo com a linguagem C++, Compilação e Execução

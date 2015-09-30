@@ -1,0 +1,2 @@
+Elementos básicos:  Variáveis, atributos, tipos de dados
+Estruturas de Controle e Repetição, Operadores de atribuição, lógicos, aritméticos e relacionais. Tipos de referência
